@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- style bs -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+  <!-- style css -->
+  <link rel="stylesheet" href="./css/formato.css">
+  <link rel="stylesheet" href="./css/cadastro.css">
+  <title>Receitas</title>
+</head>
+
+<body>
+  <header>MENU</header>
+  <main>
+
+    <div class="container-fluid">
+
+      <form class="form-container">
+
+        <!-- Nome -->
+        <div class="container row  justify-content-center">
+          <label for="nome" class="col-sm-1 col-form-label label-w">Nome:</label>
+          <div class="col-sm-6">
+            <input type="text" class="form-control inputs-inline" id="nome" placeholder="Digite seu nome" required>
+          </div>
+        </div>
+
+        <!-- E-Mail -->
+        <div class="container row  justify-content-center">
+          <label for="email" class="col-sm-2 col-form-label label-w">E-mail:</label>
+          <div class="col-sm-6">
+            <input type="email" class="form-control inputs-inline" id="email" placeholder="Digite seu e-mail" required>
+          </div>
+        </div>
+
+
+        <!-- CEP  -->
+        <div class="container row  justify-content-center">
+          <label for="cep" class="col-sm-2 col-form-label label-w">CEP:</label>
+          <div class="col-sm-6">
+            <input type="text" class="form-control inputs-inline" id="cep" placeholder="Digite seu CEP" required>
+          </div>
+        </div>
+
+        <!-- RUA -->
+        <div class="container row  justify-content-center group-rua">
+          <label for="rua" class="col-sm-2 col-form-label label-w">Rua:</label>
+          <div class="col-sm-6">
+            <input type="text" class="form-control inputs-inline" id="rua" placeholder="Digite o nome da rua" required>
+          </div>
+        </div>
+
+        <!-- grupo Numero Complemento -->
+        <div class="container row  justify-content-center">
+          <label for="numero" class="col-sm-1 col-form-label label-w">Número:</label>
+          <div class="col-sm-3">
+            <input type="text" class="form-control inputs-inline-esp" id="numero" placeholder="Digite o número"
+              required>
+          </div>
+
+          <label for="complemento" class="col-sm-1 col-form-label label-w">Complemento:</label>
+          <div class="col-sm-2">
+            <input type="text" class="form-control inputs-inline-esp" id="complemento"
+              placeholder="Digite o complemento" required>
+          </div>
+        </div>
+
+        <!-- grupo Cidade UF -->
+        <div class="container row  justify-content-center" >
+
+          <label for="cidade" class="col-sm-1 col-form-label label-w">Cidade:</label>
+
+          <div class="col-sm-3">
+            <input type="text" class="form-control inputs-inline-esp" id="cidade" placeholder="Digite o nome da cidade"
+              required>
+          </div>
+
+          <label for="uf" class="col-sm-1 col-form-label label-w">UF:</label>
+          <div class="col-sm-2">
+            <select title="UF" class="form-select" id="uf" required>
+
+              <option selected></option>
+              <option value="RJ">RJ</option>
+              <option value="SP">SP</option>
+              <option value="RN">RN</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="col-sm-3 align-self-center btn-env">
+          <button type="submit" class="btn btn-primary float-sm-end">Enviar</button>
+        </div>
+
+      </form>
+    </div>
+  </main>
+  <footer>
+    <div class="footer-copyright">
+      <p>&copy; Copyright 2023</p>
+    </div>
+  </footer>
+</body>
+
+</html>

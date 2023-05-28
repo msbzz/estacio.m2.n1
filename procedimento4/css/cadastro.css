@@ -1,0 +1,107 @@
+ 
+ .form-grp1{
+  height: 400px;
+ }
+
+.main-control{
+  display:flex;
+  flex-direction: column;
+  margin-left: 10px;
+  
+}
+
+.title-form{
+  justify-content: left;
+  font-size: 2.0rem; 
+  /*margin-top: -200px !important;*/
+
+}
+
+.btn-env{
+  margin-top:  10px;
+  margin-top:  10px;
+  background-color: #333;
+  color: white;
+  width: 100%;
+  height: 60px;
+  
+}
+ 
+.grupoBtn{
+  position:relative ;
+}
+
+.grupoBtn button{
+  height: 3.5rem;
+  width: 100%;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+/*
+form{
+  background-color: #c7a718;
+}*/
+
+ 
+@media (min-width: 648px) {
+  /*
+  form{
+    background-color: #478d50;
+  }*/
+  
+  #uf{
+    position: relative;
+  }
+  .grupoBtn{
+    position:absolute ;
+  
+  }
+  .grupoBtn button{
+    height: 3.5rem;
+    width: 8rem;
+    width: 8rem; 
+    margin-top:-110px;
+    margin-left: 400px;
+  }
+}
+  
+@media (min-width: 890px) {
+    /*
+    form{
+      background-color: #9f9fb4;
+    }*/
+
+    .grupoBtn{
+      position:absolute ;
+    }
+
+    .grupoBtn button{
+      height: 3.5rem;
+      width: 8rem;
+      margin-top:-110px;
+      margin-left: 500px;
+    }
+
+    @media (min-width: 950px) {
+      /*
+      form{
+        background-color: #320d3f;
+      }*/
+
+      .grupoBtn{
+        position:absolute ;
+      
+      }
+      .grupoBtn button{
+        height: 3.5rem;
+        width: 8rem;
+        margin-top:-110px;
+        margin-left: 750px;
+      }
+    }
+ 
+ 
+} 
+  
+ 
+ 
