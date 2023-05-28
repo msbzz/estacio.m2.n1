@@ -18,7 +18,8 @@
  Defina a estrutura básica da página, digitando "html" seguido de "CTRL + Espaço",
  selecionando a opção "HTML:5";
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/11a8216a-5999-4b28-9451-df0c759ee043)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/7a9ef2a1-8226-4a75-a0a4-e7ef08195f25)
+
 
 Modifique o conteúdo do arquivo para obter as seguintes características:
     a) Alterar a linguagem para pt-br
@@ -46,9 +47,12 @@ Crie o arquivo "formatos.css" para formatação das páginas:
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/96b25421-9738-4e78-8010-3b9d706dc715)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/9701e9f7-3a61-42eb-8af1-3e017ea1a360)
+
 
 Por fim, verifique os resultados obtidos através de um navegador.
+
+
 👉 2º Procedimento | Página de Receitas
 
 Crie uma página com o nome "receitas.html", no ambiente de edição;
@@ -86,106 +90,14 @@ quantitativo de receitas, no modo automático
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/5320d82d-dc93-4390-b808-49b6090d0323)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/28d6a02b-d4a5-4012-909a-5c12edbba752)
 
  
 Material de orientações para desenvolvimento da missão
 prática do 1º nível de conhecimento.
 
-RPG0008  - Meu primeiro site "cringe"
+ Por fim, verifique os resultados obtidos através de um navegador.
 
-Implementação de um site voltado para o fornecimento de receitas culinárias, com a
-utilização apenas de HTML e CSS.
-
-Objetivos da prática
-
-A partir dos objetivos listados abaixo, no final do projeto, você terá implementado um
-site responsivo, voltado para a visualização de receitas culinárias, a partir de dados
-estatísticos, com a inclusão de elementos CSS do framework Bootstrap.
-
-Definir a estrutura do site na sintaxe HTML
-Utilizar folhas de estilo (CSS) na formatação das páginas;
-Definir uma fonte de dados estática, no próprio HTML;
-Utilizar elementos básicos de formatação com o framework Bootstrap.
-Materiais necessários para a prática
-
-Computador com acesso à internet;
-Editor de código Visual Studio Code;
-Navegador de internet instalado no computador.
-Desenvolvimento da prática
-
-Vamos colocar a mão na massa?! Siga as instruções abaixo para desenvolvimento
-desta missão.
-
-👉 1º Procedimento | Página Inicial
-
-Crie um diretório com o nome "receitas" e abra o Visual Studio Code;
-Crie uma página com o nome "home.html", no ambiente de edição;
-Defina a estrutura básica da página, digitando "html" seguido de "CTRL + Espaço",
-selecionando a opção "HTML:5";
-Modifique o conteúdo do arquivo para obter as seguintes características:
-    a) Alterar a linguagem para pt-br
-
-    b) Incluir elementos semânticos para estruturar o site
-
-    c) Definir uma área para o menu
-
-    d) Copiar uma imagem png para o diretório, definindo a logotipo do site
-
-    e) Definir a área principal com a logotipo, título e mensagem de boas-vindas
-
-    f) Definir uma área de rodapé com informação de copyright
-
-Crie o arquivo "formatos.css" para formatação das páginas:
-    a) Definir uma classe para a logotipo, com largura e altura de 50 pixels
-
-    b) Definir a formatação das áreas semânticas
-
-    c) Definir características tipográficas globais
-
-    d) Explorar as possibilidades da visualização no modo flex
-
-    e) Posicionar adequadamente as áreas semânticas
-
-Ajuste as características para obter uma página como o exemplo abaixo:
-Por fim, verifique os resultados obtidos através de um navegador.
-👉 2º Procedimento | Página de Receitas
-
-Crie uma página com o nome "receitas.html", no ambiente de edição;
-Defina a estrutura básica da página, assim como realizado no primeiro procedimento;
-Modifique o conteúdo do arquivo para obter as seguintes características:
-    a) Alterar a linguagem para pt-br
-
-    b) Incluir elementos semânticos para estruturar o site
-
-    c) Definir uma área para o menu
-
-    d) Definir a área principal com a apresentação do conjunto de receitas
-
-    e) Apresentar as receitas em divs, organizadas no modo flex
-
-    f) Organizar cada div com a inclusão de nome da receita, foto do prato, itens
-utilizados e modo de preparo
-
-    g) Definir uma área de rodapé com informação de copyright
-
-Inclua o arquivo "formatos.css", para utilizar as formatações globais;
-Crie o arquivo "receitas.css" para formatação da área de receitas:
-    a) Definir uma área para agrupar os painéis das receitas, com base no modo flex,
-garantindo a responsividade
-
-    b) Definir a formatação dos painéis de receitas
-
-    c) Definir a formatação para o nome da receita, foto do prato, lista de itens e modo
-de preparo
-
-    d) Estabelecer dimensões fixas para os painéis
-
-    e) Utilizar barra de rolagem vertical na área principal, prevendo o aumento do
-quantitativo de receitas, no modo automático
-
-Ajuste as características para obter uma página como o exemplo abaixo:
-Por fim, verifique os resultados obtidos através de um navegador.
 👉 3º Procedimento | Formulário e Navegação
 
 Crie uma página com o nome "cadastro.html", no ambiente de edição;
@@ -242,7 +154,8 @@ rolagem quando o espaço central for ultrapassado
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/be1fc85b-1049-4d63-9738-ed5860b96262)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/04083ff6-1773-405c-9baa-adb0ae6926ef)
+
 
 Por fim, verifique os resultados obtidos através de um navegador.
 
@@ -268,10 +181,10 @@ Modifique o sistema de painéis da página "receitas.html" para o uso do Bootstr
 
 Ajuste as características para obter páginas como os exemplos abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/7ec06177-8004-48ac-a8c0-6174bd8ef8c2)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/88774f79-ce4c-44eb-bd37-eb8683f88a69)
 
-![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/b4cf8578-ed18-48fb-869e-6a98667a00d4)
 
+  ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/3e8d6398-8e42-4158-ad43-ea6718785015)
 
 
 ## Pré-requisitos
