@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- style bs -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="./css/formato.css"> 
+    <link rel="stylesheet" href="./css/cadastro.css">    
+    <title>Document</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row justify-content-center m-4">
+            <h1>Efetue seu Cadastro</h1> 
+            <div class="row-flex">
+                <div class="form-container">
+
+                    <div class="mb-4 inputs-inline">
+                        <label for="nome" class="form-label label-container">Nome:</label>
+                        <input type="text" class="form-control form-control-sm  input-container" id="nome"
+                            name="nome" placeholder="Insira seu nome" required>
+                    </div>
+                    <div class="mb-4 inputs-inline">
+                        <label for="email" class="form-label label-container">E-mail</label>
+                        <input type="email" class="form-control form-control-sm input-container" id="email"
+                            placeholder="Insira seu e-mail" required>
+                    </div>
+                    <div class="mb-4 inputs-inline">
+                        <label for="cep" class="form-label label-container">Cep</label>
+                        <input type="text" class="form-control form-control-sm input-container" id="cep"
+                            placeholder="Insira seu cep" required>
+
+                    </div>
+                    <div class="mb-4 inputs-inline">
+                        <label for="numer" class="form-label label-container">Rua:</label>
+                        <input type="text" class="form-control form-control-sm input-container" id="rua"
+                            name="rua" placeholder="Insira seu nome de sua rua" required>
+                    </div>
+
+                    <div class="grupo-info">
+                        <div class="mb-4 inputs-inline">
+                            <label for="numero" class="form-label label-container">N°:</label>
+                            <input type="text" class="form-control form-control-sm input-container" id="numero"
+                                name="numero" placeholder="Insira o numero" required>
+                        </div>
+                        <div class="mb-4 inputs-inline">
+                            <label for="complemento" class="form-label label-container">Complemento:</label>
+                            <input type="text" class="form-control form-control-sm input-container"
+                                id="complemento" name="complemento"
+                                placeholder="Insira o numero de sue complemento" required>
+                        </div>
+                    </div>
+
+                    <div class="grupo-info">
+                        <div class="mb-4 inputs-inline">
+                            <label for="cidade" class="form-label label-container">Cidade:</label>
+                            <input type="text" class="form-control form-control-sm input-container" id="cidade"
+                                name="cidade" placeholder="Insira sua cidade" required>
+                        </div>
+                        <div class="mb-4 inputs-inline">
+                            <label for="uf" class="form-label label-container">UF:</label>
+
+                            <select title="UF" class="form-select" id="uf" required>
+
+                                <option selected></option>
+                                <option value="RJ">RJ</option>
+                                <option value="SP">SP</option>
+                                <option value="RN">RN</option>
+                            </select>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="form-btn">
+              
+                        <button class="btn btn-primary" type="submit">Cadastrar</button>
+               
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
