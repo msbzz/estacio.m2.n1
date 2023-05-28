@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Dancing Script", sans-serif;
+  }
+  
+  body {
+    height: 100vh;
+    background-color: #e9967a;
+  }
