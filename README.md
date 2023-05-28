@@ -3,11 +3,11 @@
 
 ## Descrição
 
-  Projeto dividido em procedimentos onde que estarão se completando no final no  procedimento 4. 
-  A implementação é voltada a visualização de um site de receitas que deverá ter  a inclusão de elementos CSS e 
+  Projeto dividido em procedimentos que estarão se completando no final ou seja, no procedimento 4. 
+  A implementação é voltada a visualização de um site de receitas que contem elementos CSS e 
   do framework Bootstrap para que tenha comportamento responsivo
   
-  osb: as fontes e titulos foram personalizados 
+  obs: as fontes e titulos foram personalizados 
  
 ## Funcionalidades
 
