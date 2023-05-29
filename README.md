@@ -202,7 +202,7 @@ Siga estas etapas para instalar e executar o projeto em sua máquina local:
    
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd nome-do-repositorio (procedimento1,procedimento1 etc)
    ```
    
 3. Abra o arquivo `index.html` em seu navegador.
