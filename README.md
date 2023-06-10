@@ -18,7 +18,7 @@
  Defina a estrutura básica da página, digitando "html" seguido de "CTRL + Espaço",
  selecionando a opção "HTML:5";
 
- ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/7a9ef2a1-8226-4a75-a0a4-e7ef08195f25)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/4bb21726-9feb-4250-81f5-5ac1a663efc4)
 
 
 Modifique o conteúdo do arquivo para obter as seguintes características:
@@ -47,7 +47,7 @@ Crie o arquivo "formatos.css" para formatação das páginas:
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
- ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/9701e9f7-3a61-42eb-8af1-3e017ea1a360)
+![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/ad082e29-03ab-4296-b52a-3c719d097543)
 
 
 Por fim, verifique os resultados obtidos através de um navegador.
