@@ -90,7 +90,7 @@ quantitativo de receitas, no modo automático
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
- ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/28d6a02b-d4a5-4012-909a-5c12edbba752)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/d4c603f6-0bb6-450f-bac1-a181c91614cb)
 
  
 Material de orientações para desenvolvimento da missão
@@ -154,7 +154,7 @@ rolagem quando o espaço central for ultrapassado
 
 Ajuste as características para obter uma página como o exemplo abaixo:
 
- ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/04083ff6-1773-405c-9baa-adb0ae6926ef)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/c7a651dc-f6d2-40ae-967b-bd92529082d5)
 
 
 Por fim, verifique os resultados obtidos através de um navegador.
@@ -181,11 +181,11 @@ Modifique o sistema de painéis da página "receitas.html" para o uso do Bootstr
 
 Ajuste as características para obter páginas como os exemplos abaixo:
 
- ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/88774f79-ce4c-44eb-bd37-eb8683f88a69)
+ ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/ad87ac0b-e283-4c81-bc91-35691d019e62)
 
 
-  ![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/3e8d6398-8e42-4158-ad43-ea6718785015)
-
+   
+![image](https://github.com/msbzz/estacio.m2.n1/assets/44148209/c57c192b-03ed-4143-8fc0-930b64f9ed5e)
 
 ## Pré-requisitos
 Antes de iniciar, verifique se você possui os seguintes requisitos:
